@@ -145,6 +145,12 @@ body{
   	left: 1rem;
   	width: 50%;
   }
+  #head-icons p{
+  	font-size: 5px;
+  }
+  .content a{
+  	padding: 5px 10px 5px 10px; 
+  }
 }
 
 /**why us section**/
